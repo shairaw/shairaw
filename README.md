@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Sentiment Analysis Product</b>
+- <b>Sentiment Analysis GUI</b>
   - [Sentimeter- Sentiment Analysis for Film Reviews ](https://github.com/shairaw/Sentimenter-)
-- <b>Statistical Modelling</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>OCR Data Extraction</b>
+  - [https://github.com/shairaw/OCR-Integration](https://github.com/shairaw/OCR-Integration)
 
 
 
