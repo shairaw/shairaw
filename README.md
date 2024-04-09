@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shaira! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">Vlogger</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> 👨‍💻 Software Development Projects:</h2>
 
 - <b>Sentiment Analysis GUI</b>
   - [Sentimeter- Sentiment Analysis for Film Reviews ](https://github.com/shairaw/Sentimenter-)
@@ -24,7 +24,7 @@
 -->
 
 
-<h2> Certifications </h2>
+<h2> 📄 Certifications: </h2>
 
 - Python for Machine Learnign and Data Science Masterclass (https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/)
 - R Programming A-Z: R For Data Science With Real Exetercises (https://www.udemy.com/course/r-programming/)
